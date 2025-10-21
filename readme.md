@@ -11,23 +11,23 @@ This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github
 ## LAYOUTS FOR DACTYL MANUFORM 5x6_68
 ### dakdak
 ### layer 0
-<img alt="layer0" src="/assets/dakdak/layer-0.png" />
+<img alt="layer0" src="/assets/dakdak/layer0.png" />
 
 ### layer 1 
-<img alt="layer1" src="/assets/dakdak/layer-1.png" />
+<img alt="layer1" src="/assets/dakdak/layer1.png" />
 
 ### layer 2 
-<img alt="layer2" src="/assets/dakdak/layer-2.png" />
+<img alt="layer2" src="/assets/dakdak/layer2.png" />
 
 ### cankurttekin
 ### layer 0
-<img alt="layer0" src="/assets/cankurttekin/layer-0.png" />
+<img alt="layer0" src="/assets/cankurttekin/layer0.png" />
 
 ### layer 1 
-<img alt="layer1" src="/assets/cankurttekin/layer-1.png" />
+<img alt="layer1" src="/assets/cankurttekin/layer1.png" />
 
 ### layer 2 
-<img alt="layer2" src="/assets/cankurttekin/layer-2.png" />
+<img alt="layer2" src="/assets/cankurttekin/layer2.png" />
 
 
 ## Documentation

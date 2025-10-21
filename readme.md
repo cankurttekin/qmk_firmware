@@ -8,6 +8,28 @@
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the Clueboard product line.
 
+## LAYOUTS FOR DACTYL MANUFORM 5x6_68
+### dakdak
+### layer 0
+<img alt="layer0" src="/assets/dakdak/layer-0.png" />
+
+### layer 1 
+<img alt="layer1" src="/assets/dakdak/layer-1.png" />
+
+### layer 2 
+<img alt="layer2" src="/assets/dakdak/layer-2.png" />
+
+### cankurttekin
+### layer 0
+<img alt="layer0" src="/assets/cankurttekin/layer-0.png" />
+
+### layer 1 
+<img alt="layer1" src="/assets/cankurttekin/layer-1.png" />
+
+### layer 2 
+<img alt="layer2" src="/assets/cankurttekin/layer-2.png" />
+
+
 ## Documentation
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
